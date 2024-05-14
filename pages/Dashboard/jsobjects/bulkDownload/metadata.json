@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "bulkDownload",
+    "pageId": "Dashboard",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Dashboard_bulkDownload",
+  "deleted": false,
+  "gitSyncId": "664207428773b477b9d92831_916d2c96-1795-4401-b035-c1a564ed07c0"
+}
